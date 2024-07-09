@@ -1,0 +1,14 @@
+setup.py
+nmrTPy/__init__.py
+nmrTPy.egg-info/PKG-INFO
+nmrTPy.egg-info/SOURCES.txt
+nmrTPy.egg-info/dependency_links.txt
+nmrTPy.egg-info/requires.txt
+nmrTPy.egg-info/top_level.txt
+nmrTPy/plot/NMRplotfuncs.py
+nmrTPy/plot/__init__.py
+nmrTPy/process/Bruker_Pseudo2D.py
+nmrTPy/process/Dosyfuncs.py
+nmrTPy/process/Fit.py
+nmrTPy/process/__init__.py
+nmrTPy/process/p2DFitRoutines.py
